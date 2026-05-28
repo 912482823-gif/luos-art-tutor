@@ -1,6 +1,9 @@
-# macOS
-.DS_Store
+# macOS resource forks (AppleDouble)
 ._*
+.DS_Store
+
+# Temporary files
+.!*
 
 # Real student data — keep the template, exclude actual records
 学生档案/*
@@ -9,5 +12,3 @@
 # IDE / editor
 .vscode/
 .idea/
-.*
-!.*
