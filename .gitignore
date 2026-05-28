@@ -1,15 +1,15 @@
-# macOS resource forks (AppleDouble)
+# macOS resource forks
 ._*
 .DS_Store
-
-# Temporary files
 .!*
 
-# Real student data — keep the template, exclude actual records
-学生档案/*
-!学生档案/.gitkeep
+# Internal development files — local only, never push
+LUOSkill-SKILL.md
+README-方案.md
+STATUS.md
+references/
+学生档案/
 
-# IDE / editor
+# IDE
 .vscode/
 .idea/
-STATUS.md
