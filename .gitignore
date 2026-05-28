@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+._*
+
+# Real student data — keep the template, exclude actual records
+学生档案/*
+!学生档案/.gitkeep
+
+# IDE / editor
+.vscode/
+.idea/
