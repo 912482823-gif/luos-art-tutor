@@ -1,4 +1,4 @@
-# LUOSkill — 美术学习助教
+# LALOSANkill — 美术学习助教
 
 你画一张画，发给我。我帮你看哪里有问题、怎么改、练什么。
 
@@ -8,7 +8,7 @@
 
 1. 把整个文件夹下载到你的电脑
 2. 安装 [Claude Code](https://claude.ai/code)
-3. 在 Claude Code 里加载本 Skill：把 `LUOSkill-SKILL.md` 拖入对话，或者用 `/skill` 命令加载
+3. 在 Claude Code 里加载本 Skill：把 `LALOSANkill-SKILL.md` 拖入对话，或者用 `/skill` 命令加载
 4. 发一张你画的画给我，我会先了解你的情况，然后帮你诊断
 
 ## 我能做什么
@@ -34,7 +34,7 @@
 
 ## 谁教的
 
-我叫罗斯（LUOS），西美油画系材料技法工作室出身，教了十年美术，服务过 1000+ 家庭。
+教了十年美术，服务过 1000+ 家庭。
 
 我的核心主张：**美术教学不是教"怎么画"，而是教"怎么看"和"怎么想"。** 天赋和感觉可以转化为可量化、可执行、可复制的科学能力。
 
@@ -43,9 +43,9 @@
 ## 文件夹说明
 
 ```
-LUOSkill-美术学习助教/
+LALOSANkill-美术学习助教/
 ├── README.md                   ← 本文件
-├── LUOSkill-SKILL.md           ← Skill 定义（给 Claude Code 读的）
+├── LALOSANkill-SKILL.md           ← Skill 定义（给 Claude Code 读的）
 ├── README-方案.md               ← 完整构建方案（给开发者参考）
 └── references/                 ← 知识库（55条诊断映射 + 40+技法索引 + 语音库 + 学生档案模板）
 ```
@@ -54,4 +54,4 @@ LUOSkill-美术学习助教/
 
 ---
 
-*LUOSkill v2.2 | 罗斯（LUOS）+ Claude Code | 2026-05-28*
+*LALOSANkill v2.2 | LALOSAN（LALOSAN）+ Claude Code | 2026-05-28*
