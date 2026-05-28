@@ -9,3 +9,5 @@
 # IDE / editor
 .vscode/
 .idea/
+.*
+!.*
